@@ -1,0 +1,158 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="NCQNolyJOxgW-snZ6KKv">
+    <mxGraphModel dx="852" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-9" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cZI6_IR7WUjyvpLQXe1A-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="45" width="45" x="391" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-14" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cZI6_IR7WUjyvpLQXe1A-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="300" />
+            </Array>
+            <mxPoint x="580" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-23" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cZI6_IR7WUjyvpLQXe1A-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="300" />
+            </Array>
+            <mxPoint x="280" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" value="Campos preenchidos?" vertex="1">
+          <mxGeometry height="100" width="100" x="364" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-28" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cZI6_IR7WUjyvpLQXe1A-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="490" />
+            </Array>
+            <mxPoint x="130" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-29" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cZI6_IR7WUjyvpLQXe1A-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="490" />
+            </Array>
+            <mxPoint x="400" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Conversão válida?" vertex="1">
+          <mxGeometry height="100" width="100" x="210" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-38" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cZI6_IR7WUjyvpLQXe1A-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="690" />
+            </Array>
+            <mxPoint x="320" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-44" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cZI6_IR7WUjyvpLQXe1A-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="552" y="690" />
+            </Array>
+            <mxPoint x="530" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Valores dentro dos limites? " vertex="1">
+          <mxGeometry height="100" width="100" x="364" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-46" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-47" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Nota ≥ 7 e Frequência ≥ 75?" vertex="1">
+          <mxGeometry height="100" width="100" x="502" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-13" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="240.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ler nota e frequência" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="464" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;Exibir a mensagem:&lt;br/&gt;⚠️ Preencha todos os campos!" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-25" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Converter para números" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Diploma concedido" vertex="1">
+          <mxGeometry height="60" width="120" x="271" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=36;" value="O sistema deve exibi&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;r:&lt;/span&gt;&lt;div&gt;❌ Digite apenas números!&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="136" x="50" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Exibir resultado para o usuário" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-37" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cZI6_IR7WUjyvpLQXe1A-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="o sistema deve verificar:&lt;br&gt;Nota deve estar entre 0 e 10.&lt;br&gt;Frequência deve estar entre 0 e 100. " vertex="1">
+          <mxGeometry height="95" width="156" x="335.5" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="304" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="464" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Exibir mensagem:&lt;br&gt;❌ Valores fora do intervalo permitido!" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-45" edge="1" parent="1" source="cZI6_IR7WUjyvpLQXe1A-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552.0000000000002" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Verificar se: &lt;br&gt;Nota maior ou igual a 7, e&lt;br&gt;Frequência maior ou igual a 75%.&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="156" x="474" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="436" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="610" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="cZI6_IR7WUjyvpLQXe1A-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;Não atende aos requisitos&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="140" x="660" y="900" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
